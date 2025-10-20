@@ -8,7 +8,7 @@ This repository contains implementations of RGPSSM, an online learning method fo
   [Paper: *Recursive Gaussian Process State Space Model*](https://arxiv.org/abs/2411.14679)
 
 - Implementation of the **RGPSSM-H** (see `RGPSSM-H/`)  
-  [Paper: *Recursive Inference for Heterogeneous Multi-Output GP State-Space Models with Arbitrary Moment Matching*](https://arxiv.org/abs/2411.14679)
+  [Paper: *Recursive Inference for Heterogeneous Multi-Output GP State-Space Models with Arbitrary Moment Matching*](https://arxiv.org/abs/2510.15390)
 
 ## Installation
 
